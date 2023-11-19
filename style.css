@@ -1,0 +1,132 @@
+
+/* First Page */
+
+.bg_image1{
+    background-image: url('images/BackgroundImage.png');
+}
+
+.txt_color{
+    color: #bf9264!important;
+}
+
+.txt_color2{
+    color: #bc9263;
+}
+
+.txt_color3{
+    color: #7C5F41;
+}
+
+.nav_color{
+    background-color: #bf9264;
+}
+
+.bg_color{
+    background-color: #7C5F41;
+    display: inline-flex;
+}
+
+@font-face {
+    font-family: brand;
+    src: url('fonts/DimorInlineA.ttf');
+}
+
+@font-face {
+    font-family: brand2;
+    src: url('fonts/DimorInlineB.ttf');
+}
+
+@font-face {
+    font-family: brand3;
+    src: url('fonts/VinetaRg.ttf');
+}
+
+.font_size{
+    font-family: brand;
+}
+
+.font_size2{
+    font-family: brand2;
+}
+
+.font_size3{
+    font-family: brand3;
+}
+
+.style1{
+    font-size: 100px;
+}
+
+.style2{
+    font-size: 85px;
+}
+
+.style3{
+    font-size: 100px;
+}
+
+.style4{
+    font-size: 50px;
+}
+
+.line_hgt{
+    line-height: 0.6;
+}
+
+/* Second Page */
+
+.bg_color2{
+    background-color: #201810;
+}
+
+@font-face {
+    font-family: brand4;
+    src: url('fonts/DimorInlineB.ttf');
+}
+
+.font_size4{
+    font-family: brand4;
+}
+
+.bg_color3{
+    background-color: red;
+}
+
+.bg_image2{
+    background-image: url('images/tryItToday/1.png');
+    background-size: 100%;
+}
+
+.bg_image3{
+    background-image: url('images/tryItToday/2.png');
+}
+
+.bg_image4{
+    background-image: url('images/tryItToday/3.png');
+}
+
+.bg_image5{
+    background-image: url('images/UpcommingEvents.png');
+    background-size: 100%;
+}
+
+.bg_image6{
+    background-image: url('images/FormSideImage.png');
+    background-size: 100%;
+}
+
+.line_hgt2{
+    line-height: 0.1;
+}
+
+.btn1{
+    border: 1px solid #bf9264;
+    color: black;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.bg_image7{
+    background-image: url('images/footbg.png');
+    background-size: 100%;
+}
